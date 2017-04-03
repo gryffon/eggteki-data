@@ -1,0 +1,19 @@
+{
+  "name": "throneteki-data",
+  "version": "1.0.0",
+  "description": "Data files for throneteki (https://github.com/cryogen/throneteki) - Not terribly useful on its own",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryogen/throneteki-data.git"
+  },
+  "author": "cryogen <stu@ipng.org.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryogen/throneteki-data/issues"
+  },
+  "homepage": "https://github.com/cryogen/throneteki-data#readme"
+}

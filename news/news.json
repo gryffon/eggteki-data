@@ -1,0 +1,14 @@
+{
+    "news" : [{
+        "datePublished": "2017-03-21",
+        "text": "New cards: Jon Snow(WotW), The Dragon's Tail.  Fix Fealty, Ser Jaime Lannister, Selyse Baratheon, Eddard Stark.  Automatically populate the faction/agenda from a copy/pasted thronesdb decklist"
+    },
+    {
+        "datePublished": "2017-03-24",
+        "text": "Several fixes to improve server performance/fix crashes.  User updates are now only sent priodically, so you may see 0 users online for a short while after connecting. New cards: Funeral Pyre, Green, Pyp, Samwell Tarly(WotW), Satin, A Meager Contribution(partial), Tyrion Lanniser(LoCR), Moon Brothers, Shagga Son of Dolf, The New Gift.  Fixes for Bestow ordering, Venomous Blade, Unbowed unbent unbroken"
+    },
+    {
+        "datePublished": "2017-03-28",
+        "text": "New cards: Lost Ranger, Sworn to the Watch, Marya Seaworth, Salt Wife, Lingering Venom, Jeyne Poole, Rattleshirt, Weirdwood Bow, The Fire That Burns, Called Into Service, Whisper Campaign.  Fixed Littlefinger, Bodyguard, Aeron Damphair, various other niggly cards.  Added a new action window after challenge winner is declared.  Added titles to the reaction prompts so you know what it's referring to"
+    }]   
+}
