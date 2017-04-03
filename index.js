@@ -1,4 +1,4 @@
-const news = require('news/news.json');
+const news = require('./news/news.json');
 
 module.exports = {
     news: news
