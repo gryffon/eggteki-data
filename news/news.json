@@ -1,14 +1,14 @@
 {
     "news" : [{
-        "datePublished": "2017-03-24",
-        "text": "Several fixes to improve server performance/fix crashes.  User updates are now only sent priodically, so you may see 0 users online for a short while after connecting. New cards: Funeral Pyre, Green, Pyp, Samwell Tarly(WotW), Satin, A Meager Contribution(partial), Tyrion Lanniser(LoCR), Moon Brothers, Shagga Son of Dolf, The New Gift.  Fixes for Bestow ordering, Venomous Blade, Unbowed unbent unbroken"
-    },
-    {
         "datePublished": "2017-03-28",
         "text": "New cards: Lost Ranger, Sworn to the Watch, Marya Seaworth, Salt Wife, Lingering Venom, Jeyne Poole, Rattleshirt, Weirdwood Bow, The Fire That Burns, Called Into Service, Whisper Campaign.  Fixed Littlefinger, Bodyguard, Aeron Damphair, various other niggly cards.  Added a new action window after challenge winner is declared.  Added titles to the reaction prompts so you know what it's referring to"
     },
     {
         "datePublished": "2017-04-08",
         "text": "New cards: Randyll Tarly, Southron Messenger, Dothraki Honor Guard, Ser Jon Fossoway, Name Day Tourney, Ulf Son of Umar, Ser Barristan Selmy (LoCR), The Prince's Plan, Summoned to Court, Queenscrown.  Various fixes."
+    },
+    {
+        "datePublished": "2017-04-21",
+        "text": "Have reworked the way the client connects to the game nodes, this should hopefully fix the issue some of you were having connecting to port 80.  It will require you to clear your cache, however.  New cards: The Eyrie, Retaliation, Crow Killers, The Frozen Shore, Dalla.  Various fixes.  Implemented text based indicators for card counters."
     }]
 }
