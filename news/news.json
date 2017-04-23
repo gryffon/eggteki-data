@@ -1,14 +1,14 @@
 {
-    "news" : [{
-        "datePublished": "2017-03-28",
-        "text": "New cards: Lost Ranger, Sworn to the Watch, Marya Seaworth, Salt Wife, Lingering Venom, Jeyne Poole, Rattleshirt, Weirdwood Bow, The Fire That Burns, Called Into Service, Whisper Campaign.  Fixed Littlefinger, Bodyguard, Aeron Damphair, various other niggly cards.  Added a new action window after challenge winner is declared.  Added titles to the reaction prompts so you know what it's referring to"
-    },
-    {
+    "news" : [    {
         "datePublished": "2017-04-08",
         "text": "New cards: Randyll Tarly, Southron Messenger, Dothraki Honor Guard, Ser Jon Fossoway, Name Day Tourney, Ulf Son of Umar, Ser Barristan Selmy (LoCR), The Prince's Plan, Summoned to Court, Queenscrown.  Various fixes."
     },
     {
         "datePublished": "2017-04-21",
         "text": "Have reworked the way the client connects to the game nodes, this should hopefully fix the issue some of you were having connecting to port 80.  It will require you to clear your cache, however.  New cards: The Eyrie, Retaliation, Crow Killers, The Frozen Shore, Dalla.  Various fixes.  Implemented text based indicators for card counters."
+    },
+    {
+        "datePublished": "2017-04-23",
+        "text": "Have introduced an option to specify what type of game you're looking for.  This is meant only as an indicator and does nothing more than put a banner in the game title.  New cards: Maester Aemon (WotW), Esgred, Iron Islands Market, Castle Black Mason. Added new action windows after plots are revealed and after cards stand in the standing phase."
     }]
 }
