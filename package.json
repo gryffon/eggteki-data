@@ -1,6 +1,6 @@
 {
   "name": "throneteki-data",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Data files for throneteki (https://github.com/cryogen/throneteki) - Not terribly useful on its own",
   "main": "index.js",
   "scripts": {
