@@ -1,14 +1,14 @@
 {
-    "news" : [    {
-        "datePublished": "2017-04-08",
-        "text": "New cards: Randyll Tarly, Southron Messenger, Dothraki Honor Guard, Ser Jon Fossoway, Name Day Tourney, Ulf Son of Umar, Ser Barristan Selmy (LoCR), The Prince's Plan, Summoned to Court, Queenscrown.  Various fixes."
-    },
-    {
+    "news" : [{
         "datePublished": "2017-04-21",
         "text": "Have reworked the way the client connects to the game nodes, this should hopefully fix the issue some of you were having connecting to port 80.  It will require you to clear your cache, however.  New cards: The Eyrie, Retaliation, Crow Killers, The Frozen Shore, Dalla.  Various fixes.  Implemented text based indicators for card counters."
     },
     {
         "datePublished": "2017-04-23",
         "text": "Have introduced an option to specify what type of game you're looking for.  This is meant only as an indicator and does nothing more than put a banner in the game title.  New cards: Maester Aemon (WotW), Esgred, Iron Islands Market, Castle Black Mason. Added new action windows after plots are revealed and after cards stand in the standing phase."
+    },
+    {
+        "datePublished": "2017-04-28",
+        "text": "New cards: Knight of the Reach, Gilly, The Annals of Castle Black, Great Hall, Polliver, Second Sons, Melisandre(GtR), Black Walder, Orphan of the Greenblood, The Hand's Solar, Scorching Deserts, Light of the Lord, Wex Pyke.  Fixed a bug in the lobby that caused the lobby process to constantly get unstable and cause lag.  Fixed messages for winter festival and ocean road.  Fixed cards that cause simultaneous kills to happen (like valar).  Fixed 'when marshaled' abilities.  Fix Calm Over Westeros when triggered with Varys's Riddle.  Fix Eastwatch-by-the-sea."
     }]
 }
