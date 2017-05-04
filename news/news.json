@@ -4,11 +4,11 @@
         "text": "Have reworked the way the client connects to the game nodes, this should hopefully fix the issue some of you were having connecting to port 80.  It will require you to clear your cache, however.  New cards: The Eyrie, Retaliation, Crow Killers, The Frozen Shore, Dalla.  Various fixes.  Implemented text based indicators for card counters."
     },
     {
-        "datePublished": "2017-04-23",
-        "text": "Have introduced an option to specify what type of game you're looking for.  This is meant only as an indicator and does nothing more than put a banner in the game title.  New cards: Maester Aemon (WotW), Esgred, Iron Islands Market, Castle Black Mason. Added new action windows after plots are revealed and after cards stand in the standing phase."
-    },
-    {
         "datePublished": "2017-04-28",
         "text": "New cards: Knight of the Reach, Gilly, The Annals of Castle Black, Great Hall, Polliver, Second Sons, Melisandre(GtR), Black Walder, Orphan of the Greenblood, The Hand's Solar, Scorching Deserts, Light of the Lord, Wex Pyke.  Fixed a bug in the lobby that caused the lobby process to constantly get unstable and cause lag.  Fixed messages for winter festival and ocean road.  Fixed cards that cause simultaneous kills to happen (like valar).  Fixed 'when marshaled' abilities.  Fix Calm Over Westeros when triggered with Varys's Riddle.  Fix Eastwatch-by-the-sea."
+    },
+    {
+        "datePublished": "2017-05-04",
+        "text": "Changed the way action windows are handled, see above for more information.  Added a prompt for when multiple characters are killed and there are multiple saves to use.  Added clearer indications of when cards are not available to be selected.  New cards: Marriage Pact, Waking the Dragon, A Dragon Is No Slave, Guarding The Realm, Lord Renlys Ride, The DornishMan's Wife, Tommen Baratheon, Risen from the Sea.  Fixed message for Winter is Coming."
     }]
 }
