@@ -1,19 +1,19 @@
 {
-  "name": "throneteki-data",
-  "version": "1.2.7",
-  "description": "Data files for throneteki (https://github.com/cryogen/throneteki) - Not terribly useful on its own",
+  "name": "eggteki-data",
+  "version": "1.2.8",
+  "description": "Data files for eggteki (https://github.com/gryffon/eggteki) - Not terribly useful on its own",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cryogen/throneteki-data.git"
+    "url": "git+https://github.com/gryffon/eggteki-data.git"
   },
-  "author": "cryogen <stu@ipng.org.uk>",
+  "author": "gryffon ryan@karetas.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cryogen/throneteki-data/issues"
+    "url": "https://github.com/gryffon/eggteki-data/issues"
   },
-  "homepage": "https://github.com/cryogen/throneteki-data#readme"
+  "homepage": "https://github.com/gryffon/eggteki-data#readme"
 }

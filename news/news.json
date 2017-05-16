@@ -1,14 +1,6 @@
 {
     "news" : [{
-        "datePublished": "2017-05-04",
-        "text": "Changed the way action windows are handled, see above for more information.  Added a prompt for when multiple characters are killed and there are multiple saves to use.  Added clearer indications of when cards are not available to be selected.  New cards: Marriage Pact, Waking the Dragon, A Dragon Is No Slave, Guarding The Realm, Lord Renlys Ride, The DornishMan's Wife, Tommen Baratheon, Risen from the Sea.  Fixed message for Winter is Coming."
-    },
-    {
-        "datePublished": "2017-05-11",
-        "text": "New cards: Winterfell Castle, Plaza of Pride, Bran Stark, The Hand's Judgement, Rickon Stark, Ygritte's immunity effect, Balon Greyjoy (CtA).  Fix Jhogo and Ser Lancel (and possibly others) causing crashes when milked, fix 'xxx has won the game' spam, fix Viserys(core), fix Jaqen."
-    },
-    {
         "datePublished": "2017-05-16",
-        "text": "New cards: Gossip and Lies, Treachery, Ghost (WoTW), Catelyn Stark (Core), Winterfell, Wolves of the North, Last Hearth Scouts, Like Warm Rain, Wolf Dreams, Brothel Madame, Ser Alliser Thorne.  Fixes to A Meager Contribution, Battle of the Blackwater, Weirdwood Bow, Kraken's Grasp.  Add prompt for dead pile ordering when multiple characters are killed.  Fix bug attributing wrong player as winner when a 'decking' occurs"
+        "text": "first draft of eggteki"
     }]
 }
