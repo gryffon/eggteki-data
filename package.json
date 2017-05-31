@@ -1,19 +1,19 @@
 {
-  "name": "eggteki-data",
+  "name": "ringteki-data",
   "version": "1.2.8",
-  "description": "Data files for eggteki (https://github.com/gryffon/eggteki) - Not terribly useful on its own",
+  "description": "Data files for ringteki (https://github.com/gryffon/ringteki) - Not terribly useful on its own",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gryffon/eggteki-data.git"
+    "url": "git+https://github.com/gryffon/ringteki-data.git"
   },
   "author": "gryffon ryan@karetas.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gryffon/eggteki-data/issues"
+    "url": "https://github.com/gryffon/ringteki-data/issues"
   },
-  "homepage": "https://github.com/gryffon/eggteki-data#readme"
+  "homepage": "https://github.com/gryffon/ringteki-data#readme"
 }
